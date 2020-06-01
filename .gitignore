@@ -207,6 +207,7 @@ db.sqlite3
 MANIFEST
 coverage.*
 /venv
+venv/
 
 !.gitignore
 !.travis.yml
